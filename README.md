@@ -1,6 +1,12 @@
 # Robot-SLAM
 
-Use a robot to map out indoor environment using Simultaneous Localisation &amp; Mapping (SLAM)
+Use a robot to map out indoor environment using Simultaneous Localisation &amp; Mapping (SLAM). Full details can be found in `Project Report.pdf`.
+
+Example results:
+
+![map 21](results/map_pred_21p.png)
+
+![map 23](results/map_pred_23p.png)
 
 
 ## How to run:
